@@ -1,0 +1,40 @@
+{
+	"WorldPermissionLevels":
+	{
+		"Admin":
+		[
+			"Llamahat",
+			"Lydia",
+      "DJSnowWolf",
+      "N0_SYNC",
+		],
+		"Staff":
+		[
+			
+		],
+		"DJ":
+		[
+    
+		],
+		"Visual":
+		[
+
+		],
+		"Dancer":
+		[
+      
+		],
+		"Media":
+		[
+
+		],
+		"Supporter":
+		[
+
+		],
+		"Friend":
+		[
+
+		]
+	},
+}
